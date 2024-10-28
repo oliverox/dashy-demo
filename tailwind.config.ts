@@ -11,7 +11,7 @@ const config: Config = {
   theme: {
   	extend: {
 			backgroundImage: {
-        dashy: "linear-gradient(135deg, #e5e5e5 10%, #0000 0, #0000 50%, #e5e5e5 0, #e5e5e5 60%, #0000 0, #0000 0.1)",
+        dashy: "linear-gradient(135deg, #e5e5e5 10%, #0000 0, #0000 50%, #e5e5e5 0, #e5e5e5 60%, #0000 0, #0000 0.1px)",
       },
       backgroundSize: {
         dashy: "6px 6px"
